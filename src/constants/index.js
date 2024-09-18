@@ -233,7 +233,7 @@ const projects = [
         color: "yellow-text-gradient",
       },
     ],
-    image: jobit,
+    image: tripguide,
     source_code_link: "https://myoms.nilkamal.online/",
   },
   {
